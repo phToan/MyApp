@@ -1,3 +1,3 @@
 export type AppRootParams = {
-  Home: undefined;
+  HomeScreen: undefined;
 };

@@ -1,4 +1,6 @@
 {
-  "welcome": "Welcome",
-  "login": "Login"
+  "Home": {
+    "Welcome": "Welcome"
+  },
+  "Login": "Login"
 }
